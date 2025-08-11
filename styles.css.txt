@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shop Acc Game Trùng Khánh</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Shop Acc Game Trùng Khánh</h1>
+        <p>Liên Quân - Free Fire - LMHT - Đột Kích</p>
+    </header>
+
+    <main>
+        <section class="product-gallery">
+            <div class="product-card">
+                <img src="acc-lienquan.jpg" alt="Acc Liên Quân">
+                <h2>Acc Liên Quân VIP</h2>
+                <p>Giá: 200k</p>
+                <button>Mua ngay</button>
+            </div>
+            <div class="product-card">
+                <img src="acc-freefire.jpg" alt="Acc Free Fire">
+                <h2>Acc Free Fire VIP</h2>
+                <p>Giá: 150k</p>
+                <button>Mua ngay</button>
+            </div>
+            <div class="product-card">
+                <img src="acc-lmht.jpg" alt="Acc LMHT">
+                <h2>Acc LMHT VIP</h2>
+                <p>Giá: 250k</p>
+                <button>Mua ngay</button>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>Liên hệ: <a href="tel:0123456789">0123 456 789</a> | Zalo / Facebook</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
